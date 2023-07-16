@@ -1,0 +1,59 @@
+Topics:
+
+  props drilling:
+    having props or state at the root parent and
+    passing to down till last child/grand-child
+  
+  Disadvantages:
+    re-rendering of unnecessary child components 
+    because parent props/state changes
+
+  Context:
+    What is context, provide, createContext
+
+      Context: function for creating a general context 
+        whose value will be available for the entire DOM tree
+      
+        Provider: hook to provide the context at parent level
+
+        Consume/Subscribe: Individual Component Consuming the Context
+    
+    Refrence: https://codesandbox.io/s/exciting-johnson-k3ysyp
+
+  Using Mock API for Crud
+    CRUD Operations for the Movies Application
+
+    CRUD:
+      Operation  Method
+      Create --> POST
+      Read   --> GET
+      Update --> PUT
+      Delete --> DELETE
+
+    1. Create Movie using Basic form with useState()
+    2. Reading all movies for home page
+    3. Reading single movie for the specific movie page
+
+  
+Next Session:
+
+  MockAPI and CRUD with simple html js
+
+  1. Update Movie
+  2. Delete Movie
+  3. Session task – profile name changes
+
+Task:
+  Day 23 & Day 24:
+    Design an UI to implement the CRUD
+    // CRUD - Create,Read,Update,Delete
+    // Dashboard
+    // List Users - /users
+    // Create User - /create-user
+    // Edit User - /edit-user/:id
+    // profile - /profile/:id
+    // edit-profile – /edit-profile/:id
+
+React interview Questions and Answers:
+  https://sparkling-notebook-8e4.notion.site/React-33037b5845894152b0419e861ed30892
+  
