@@ -33,6 +33,9 @@ Topics:
     1. Create Movie using Basic form with useState()
     2. Reading all movies for home page
     3. Reading single movie for the specific movie page
+  
+  Sample layout Design:
+    https://codesandbox.io/s/goofy-voice-vvw8jm?file=/src/App.js
 
   
 Next Session:
@@ -56,4 +59,5 @@ Task:
 
 React interview Questions and Answers:
   https://sparkling-notebook-8e4.notion.site/React-33037b5845894152b0419e861ed30892
+
   
